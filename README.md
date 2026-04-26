@@ -17,7 +17,7 @@ focus       :
   languages : Go · C++ · Java · Python
   data      : PostgreSQL
   building  : Scalable backend systems & APIs
-  exploring : systems · Concurrency · Systems programming
+  exploring : Distributed systems · Concurrency · Systems programming
 ```
 
 > *"Building systems that scale."*
@@ -31,11 +31,19 @@ focus       :
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 **🗄️ Database**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+**🔀 Message Brokers & Caching**
+
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Valkey](https://img.shields.io/badge/Valkey-005C8A?style=for-the-badge&logo=valkey&logoColor=white)](https://valkey.io)
 
 **🛠️ Tools & Workflow**
 
