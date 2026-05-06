@@ -36,6 +36,31 @@
 
 ---
 
+# 🚀 Projects
+
+| Project | Role | Stack | Status |
+|:---|:---|:---|:---:|
+| **🎓 Chronicles-OJ** — UNTAN's Official Online Judge | Backend API (9-person team) | `Go` · `PostgreSQL` · `RabbitMQ` | 🟡 Active |
+| **☁️ REGtee Cloud** — IaaS/PaaS Platform | Backend (3-person team) | `Go` · `Proxmox` · `PostgreSQL` · `Valkey` · `RabbitMQ` · `SMTP` · `JWT` · `OAuth2` · `Local Payment Gateway` | 🟡 Active |
+| **🎓 Bootcamp Enrollment System** — PaaS Platform | Backend | `Go` · `PostgreSQL` · `SMTP` · `JWT` | 🟡 Active |
+
+> *80–90% of my backend system work is private / under NDA.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Etherift&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7fff00&text_color=c9d1d9&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherift&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Etherift&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00f5ff&ring=7fff00&fire=ff00aa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=4a6572"/>
+</p>
+
+---
+
 ## 🏆 Trophies
 
 <p align="center">
@@ -52,8 +77,6 @@
 
 ---
 
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:00f5ff,100:050a0f&height=80&section=footer"/>
