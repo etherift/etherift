@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+%26+Systems+Engineer;Building+systems+that+scale.;Go+%C2%B7+C%2B%2B+%C2%B7+PostgreSQL+%C2%B7+Java+%C2%B7+Python)](https://git.io/typing-svg)
 
-> *"Building systems that scale."*
+[![views](https://komarev.com/ghpvc/?username=Etherift&color=00f5ff&style=flat-square&label=Profile+Views)](https://github.com/Etherift)
 
 ---
 
