@@ -52,9 +52,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Etherift&theme=github-compact&hide_border=true&bg_color=0d1117&color=00f5ff&line=7fff00&point=ff00aa&area=true&area_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
