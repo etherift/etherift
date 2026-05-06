@@ -1,24 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+%26+Systems+Engineer;Building+systems+that+scale.;Go+%C2%B7+C%2B%2B+%C2%B7+PostgreSQL+%C2%B7+Java+%C2%B7+Python)](https://git.io/typing-svg)
-
-[![views](https://komarev.com/ghpvc/?username=Etherift&color=00f5ff&style=flat-square&label=Profile+Views)](https://github.com/Etherift)
-
----
-
-## 🧠 `$ whoami`
-
-```
-name        : Andrean Stephanus
-handle      : Etherift
-role        : Backend Engineer · Systems Developer
-university  : Universitas Tanjungpura (UNTAN) — Informatics Engineering
-location    : Pontianak, West Kalimantan, Indonesia 🇮🇩
-
-focus       :
-  languages : Go · C++ · Java · Python
-  data      : PostgreSQL
-  building  : Scalable backend systems & APIs
-  exploring : Distributed systems · Concurrency · Systems programming
-```
 
 > *"Building systems that scale."*
 
@@ -38,39 +17,34 @@ focus       :
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-**🔀 Message Brokers & Caching**
+**🔀 Message Brokers, Caching & IoT**
 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com)
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Valkey](https://img.shields.io/badge/Valkey-005C8A?style=for-the-badge&logo=valkey&logoColor=white)](https://valkey.io)
+[![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org)
 
-**🛠️ Tools & Workflow**
+**🛠️ Tools, OS & Workflow**
 
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Etherift)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+
+---
 
 ## 🚀 Projects
 
-### 🔒 Campus & Team (Private / NDA)
-*80–90% of my backend system work is private. Here's a glimpse:*
+| Project | Role | Stack | Status |
+|:---|:---|:---|:---:|
+| **🎓 Chronicles-OJ** — UNTAN's Official Online Judge | Backend API (9-person team) | `Go` · `PostgreSQL` · `RabbitMQ` | 🟡 Active |
+| **☁️ REGtee Cloud** — IaaS/PaaS Platform | Backend (3-person team) | `Go` · `Proxmox` · `PostgreSQL` · `Valkey` · `RabbitMQ` · `SMTP` · `JWT` · `OAuth2` · `Local Payment Gateway` | 🟡 Active |
+| **🎓 Bootcamp Enrollment System** — PaaS Platform | Backend | `Go` · `PostgreSQL` · `SMTP` · `JWT` | 🟡 Active |
 
-* **🎓 Chronicles-OJ** — UNTAN's Official Online Judge
-    * **Role:** Backend API (9-person team)
-    * **Stack:** `Go` · `PostgreSQL` · `RabbitMQ`
-    * **Status:** 🟡 Active
-    
-* **☁️ REGtee Cloud** — IaaS/PaaS Platform
-    * **Role:** BackEnd (3-person team)
-    * **Stack:** `Proxmox` · `SMTP` · `JWT`· `Oauth2` · `PostgreSQL` · `Valkey` · `RabbitMQ` · `Go` . `Local Payment Gateway`
-    * **Status:** 🟡 Active
+> *80–90% of my backend system work is private / under NDA.*
 
-* **🎓 Bootcamp Enrollment System** — PaaS Platform
-    * **Role:** BackEnd 
-    * **Stack:** `Go` · `PostgreSQL`· `SMTP` · `JWT`
-    * **Status:** 🟡 Active
 ---
 
 ## 📊 GitHub Stats
