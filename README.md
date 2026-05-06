@@ -36,36 +36,19 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Role | Stack | Status |
-|:---|:---|:---|:---:|
-| **🎓 Chronicles-OJ** — UNTAN's Official Online Judge | Backend API (9-person team) | `Go` · `PostgreSQL` · `RabbitMQ` | 🟡 Active |
-| **☁️ REGtee Cloud** — IaaS/PaaS Platform | Backend (3-person team) | `Go` · `Proxmox` · `PostgreSQL` · `Valkey` · `RabbitMQ` · `SMTP` · `JWT` · `OAuth2` · `Local Payment Gateway` | 🟡 Active |
-| **🎓 Bootcamp Enrollment System** — PaaS Platform | Backend | `Go` · `PostgreSQL` · `SMTP` · `JWT` | 🟡 Active |
-
-> *80–90% of my backend system work is private / under NDA.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etherift&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7fff00&text_color=c9d1d9&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherift&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Etherift&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00f5ff&ring=7fff00&fire=ff00aa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=4a6572"/>
-</p>
-
----
-
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Etherift&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Etherift&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  </a>
 </p>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Etherift&theme=github-compact&hide_border=true&bg_color=0d1117&color=00f5ff&line=7fff00&point=ff00aa&area=true&area_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
