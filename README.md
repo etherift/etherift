@@ -52,6 +52,25 @@ focus       :
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
+## 🚀 Projects
+
+### 🔒 Campus & Team (Private / NDA)
+*80–90% of my backend system work is private. Here's a glimpse:*
+
+* **🎓 Chronicles-OJ** — UNTAN's Official Online Judge
+    * **Role:** Backend API (9-person team)
+    * **Stack:** `Go` · `PostgreSQL` · `RabbitMQ`
+    * **Status:** 🟡 Active
+    
+* **☁️ REGtee Cloud** — IaaS/PaaS Platform
+    * **Role:** BackEnd (3-person team)
+    * **Stack:** `Proxmox` · `SMTP` · `JWT`· `Oauth2` · `PostgreSQL` · `Valkey` · `RabbitMQ` · `Go` . `Local Payment Gateway`
+    * **Status:** 🟡 Active
+
+* **🎓 Bootcamp Enrollment System** — PaaS Platform
+    * **Role:** BackEnd 
+    * **Stack:** `Go` · `PostgreSQL`· `SMTP` · `JWT`
+    * **Status:** 🟡 Active
 ---
 
 ## 📊 GitHub Stats
